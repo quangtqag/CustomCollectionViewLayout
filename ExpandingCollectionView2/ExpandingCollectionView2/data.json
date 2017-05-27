@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Burgers",
+    "authorName": "John",
+    "authorAvatarName": "face0",
+    "desc": "Experimenting with burgers.",
+    "featuredImageName": "bg0",
+    "views": 23,
+    "comments": 45,
+    "likes": 67,
+    "commenters": [
+      {
+        "name": "Peter",
+        "comment": "Very good.",
+        "avatarName": "commenterFace0",
+        "commentDate": "AUG 17 2017"
+      },
+      {
+        "name": "Mary",
+        "comment": "Nice to enjoy.",
+        "avatarName": "commenterFace1",
+        "commentDate": "AUG 18 2017"
+      },
+      {
+        "name": "Joe",
+        "comment": "Feel very happiness.",
+        "avatarName": "commenterFace2",
+        "commentDate": "AUG 19 2017"
+      },
+      {
+        "name": "Deon",
+        "comment": "I want to eat it daily.",
+        "avatarName": "commenterFace3",
+        "commentDate": "AUG 20 2017"
+      }
+    ]
+  },
+  {
+    "title": "Calzones",
+    "authorName": "Kenedy",
+    "authorAvatarName": "face1",
+    "desc": "Experimenting with calzones.",
+    "featuredImageName": "bg1",
+    "views": 110,
+    "comments": 54,
+    "likes": 78,
+    "commenters": [
+      {
+        "name": "Donal",
+        "comment": "Very good.",
+        "avatarName": "commenterFace0",
+        "commentDate": "AUG 17 2017"
+      },
+      {
+        "name": "Trump",
+        "comment": "Nice to enjoy.",
+        "avatarName": "commenterFace1",
+        "commentDate": "AUG 18 2017"
+      },
+      {
+        "name": "Mac",
+        "comment": "Feel very happiness.",
+        "avatarName": "commenterFace2",
+        "commentDate": "AUG 19 2017"
+      },
+      {
+        "name": "Cathy",
+        "comment": "I want to eat it daily.",
+        "avatarName": "commenterFace3",
+        "commentDate": "AUG 20 2017"
+      }
+    ]
+  },
+  {
+    "title": "Casseroles",
+    "authorName": "John",
+    "authorAvatarName": "face2",
+    "desc": "Experimenting with casseroles.",
+    "featuredImageName": "bg2",
+    "views": 43,
+    "comments": 51,
+    "likes": 89,
+    "commenters": [
+      {
+        "name": "Peter",
+        "comment": "Very good.",
+        "avatarName": "commenterFace0",
+        "commentDate": "AUG 17 2017"
+      },
+      {
+        "name": "Mary",
+        "comment": "Nice to enjoy.",
+        "avatarName": "commenterFace1",
+        "commentDate": "AUG 18 2017"
+      },
+      {
+        "name": "Joe",
+        "comment": "Feel very happiness.",
+        "avatarName": "commenterFace2",
+        "commentDate": "AUG 19 2017"
+      },
+      {
+        "name": "Deon",
+        "comment": "I want to eat it daily.",
+        "avatarName": "commenterFace3",
+        "commentDate": "AUG 20 2017"
+      }
+    ]
+  },
+  {
+    "title": "Main Dish Salad",
+    "authorName": "John",
+    "authorAvatarName": "face3",
+    "desc": "Experimenting with main dish salad.",
+    "featuredImageName": "bg3",
+    "views": 55,
+    "comments": 77,
+    "likes": 99,
+    "commenters": [
+      {
+        "name": "Peter",
+        "comment": "Very good.",
+        "avatarName": "commenterFace0",
+        "commentDate": "AUG 17 2017"
+      },
+      {
+        "name": "Mary",
+        "comment": "Nice to enjoy.",
+        "avatarName": "commenterFace1",
+        "commentDate": "AUG 18 2017"
+      },
+      {
+        "name": "Joe",
+        "comment": "Feel very happiness.",
+        "avatarName": "commenterFace2",
+        "commentDate": "AUG 19 2017"
+      },
+      {
+        "name": "Deon",
+        "comment": "I want to eat it daily.",
+        "avatarName": "commenterFace3",
+        "commentDate": "AUG 20 2017"
+      }
+    ]
+  }
+]
